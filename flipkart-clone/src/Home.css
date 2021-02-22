@@ -1,0 +1,11 @@
+.home_product {
+  display: flex;
+  z-index: 1;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.home {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}

@@ -1,0 +1,16 @@
+.checkoutproduct {
+  margin-top: 30px;
+}
+.checkoutproduct > img {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.checkoutproduct > h2 {
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.checkoutproduct > h4 {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}

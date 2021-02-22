@@ -1,0 +1,9 @@
+.checkout {
+  display: flex;
+}
+.checkout > button {
+  background-color: rgb(174, 246, 248);
+  border: none;
+  padding: 10px;
+  margin-left: 10px;
+}
